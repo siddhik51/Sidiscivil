@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sidiscivil
+- 👋 Hi, I’m SIDDHIK
 - 👀 I’m interested in finding inovative and exploratory datas
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on machine learning
